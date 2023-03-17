@@ -18,10 +18,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'MultiNet'
+    twitter: 'imczq'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-NLQLVXDJ5T'
     baidu_tongji: ''
   verification:
     google: ''
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: 'https://github.com/wowchemy/multinet'
     content_dir: content
     branch: main
   comment:
