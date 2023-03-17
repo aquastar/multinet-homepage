@@ -24,10 +24,10 @@ advanced:
   css_class: fullscreen
 ---
 
+<br>
 
-<a class="github-button" href="https://github.com/aquastar/multinet" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star MultiNet</a>
+Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
+Introduce your courses here.
 
-<a class="github-button" href="https://github.com/aquastar/awesome-multilayer-network" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star awesome-multilayer-network">awesome-multilayer-network </a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
