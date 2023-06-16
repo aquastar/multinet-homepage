@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Resources
+subtitle: ✨ Roadmap to MultiNet
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: Learn MultiNet
     description:
   - icon: video
     icon_pack: fas
-    name: Video
+    name: Read Papers
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Use XMulti
     description:
 ---
