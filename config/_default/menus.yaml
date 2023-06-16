@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Doc
+  - name: Learn
     PageRef: learn/_index.md
     weight: 30
     # parent: courses
